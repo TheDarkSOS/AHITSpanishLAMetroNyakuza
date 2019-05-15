@@ -1,0 +1,178 @@
+[levels]
+Chapter1_MafiaTown = Mafia Town
+Act_1_1 = ¡Bienvenida a Mafia Town!
+Act_1_2 = ¡Batalla de Barriles!
+Act_1_3 = ¡Ella Viene del Espacio Exterior!
+Act_1_4 = ¡Acabando con la Mafia!
+Act_1_5 = ¡Saboteando la Carrera!
+Act_1_6 = ¡Calentando a la Mafia!
+Act_1_7 = ¡La Bóveda Dorada!
+Location_MafiaTown = Mafia Town
+Location_MafiaHQ = Mafia HQ
+
+Chapter1_Bonus_Secret_Sewer = Alcantarillas
+Chapter1_Bonus_Secret_Bazaar = Bazar
+Chapter1_Bonus_Cave_Intro = Mafia de Cocineros
+Chapter1_Bonus_Cave_Raccoon = Subcon Soñoliento
+
+Chapter7_Metro = Nyakuza Metro
+Location_Metro_HUB = Estación principal
+Location_Metro_RouteA = Estación de Paso Elevado Amarillo
+Location_Metro_RouteB = Estación de Limpieza Verde
+Location_Metro_RouteC = Tunel de Aleta Azul
+Location_Metro_RouteD = Estación de la Pata Rosada
+Metro_Escape = Hora pico
+Metro_Escape_Location = Los túneles de escape
+Metro_ManholeA = Pozo del Paso Elevado Amarillo 
+Metro_ManholeB = Pozo de la Limpieza Verde
+Metro_ManholeC = Pozo de la Pata Rosada
+Metro_CaveRift_RumbiFactory = Fábrica Rumbi
+
+
+
+Chapter2_Subcon = Bosque Subcon
+Act_2_1 = Obligaciones Contractuales
+Act_2_2 = El Pozo Subcon
+Act_2_3 = Inodoro Infernal
+Act_2_4 = Mansión de la Reina Vanessa
+Act_2_5 = Servicio de Entrega de Correo
+Act_2_6 = Gran Ritual de los Espíritus de Fuego
+Act_2_7 = Tu Contrato Ha Expirado
+Location_Subcon = Bosque Subcon
+Location_SubconCave = Cueva Subcon
+Location_VanessaManor = Mansión de Vanessa
+Location_SubconVillage = Villa Subcon
+
+Chapter2_Bonus_Vanessa = Villa
+Chapter2_Bonus_Cave = Tubo
+
+Chapter3_Trainwreck = Batalla de Aves
+Act_3_1 = Dead Bird Studio
+Act_3_2 = Asesinato en el Búho Express
+Act_3_3 = Imagen Perfecta
+Act_3_4 = La Carrera Del Tren
+Act_3_5 = El Gran Desfile
+Act_3_6 = Ceremonia de Premiación
+Location_ScienceExpress = El Búho Express
+Location_Moon = La Luna
+TimeRift_Water_TWreck_Panels = El Búho Express
+TimeRift_Water_TWreck_Parade = La Luna
+TimeRift_Cave_TWreck_Basement = Dead Bird Studio
+
+Chapter4_Sand = Horizonte Alpestre
+alpine_finale = La Enfermedad Se Ha Extendido
+Chapter4_Bonus_Cats = Rastro de Cola Rizada
+TimeRift_Water_Alp_Goats = Campana del Crepúsculo
+TimeRift_Cave_Alps = Horizonte Alpestre
+
+Chapter5_Finale = El Final Del Tiempo
+act_5_1 = El Final
+
+Chapter6_Cruise = El Crucero Ártico
+Cruise_Act1 = ¡Bon Voyage!
+Cruise_Act2 = La Condición Del Barco
+Cruise_Act3 = Mover El Bote
+
+TimeRift_Cave_Cruise = Mar Profundo
+TimeRift_Water_Cruise_Slide = Balcón
+TimeRift_Cave_Tour = Tour
+DeathWish = Deseo Mortal
+NiceWish = Deseo Genial
+Community = Mapa de la Comunidad 
+TimeRift_Cave_RhythmJumpStudio = Rhythm Jump Studio
+TimeRift_Cave_TwilightTravels = Twilight Travels
+TimeRift_Cave_MountainRift = The Mountain Rift
+
+Spaceship_WaterRift_Gallery = La Galería
+Spaceship_WaterRift_MailRoom = Laboratorio
+
+Location_DreamWorld_Water = Ruptura Temporal - Azul
+Location_DreamWorld_Cave = Ruptura Temporal - Morado
+Location_Spaceship = La Nave Espacial
+Location_Bookstore = Final Del Tiempo
+
+FreeRoam = Modo Libre
+TimeRift = Ruptura Temporal
+
+secretlevel_beta_space = Reto del Héroe (Beta)
+
+[ActInfoBoxDetails]
+NumSecondsLeft = Quedan [value] segundos
+Population_MafiaTown = Población: 379
+Population_MafiaTown_Less = Población: Menos que antes ya que los hice volar
+Population_MafiaTown_Fried = Población: Mucha Mafia Frita
+Population_MafiaTown_Boss = Población: Uno menos pronto
+Mission_RecoverTP = Misión: Recuperar Las Piezas Temporales Caídas
+Mission_Race = Misión: Ganar legítima- pfffft jajaja
+Mission_Safe = Misión: ¡Abrir esa gran bóveda!
+Mission_Boss =  Misión: ¡Acabar con la Mafia!
+Mission_Lava = Misión: ¡Enfriar las cosas!
+Sweating_No = Clima: Ojalá no
+Sweating_Nope = Clima: Sin Oportunidad
+Sweating_Yes = Clima: Si, desafortunadamente
+Sweating_Rain = Clima: El cielo parece estar transpirando...
+
+Mission_Studio = Misión: ¡Descubre a dónde fueron esas Piezas Temporales!
+Mission_Award = Misión: ¡A celebrar! ¡Lo lograste!
+Mission_Uncanny = Algo extraño está pasando aquí...
+ReviewScore = Top Review: "2 1/2 Estrellas, todos los actores son terribles"
+ReviewScore2 = Top Review: "5 Estrellas, nueva actriz excelente"
+Legality_No = Estado Legal: Totalmente no permitido
+Legality_Yes = Estado Legal: Nada desagradable aquí, seguramente.
+MovieStars_Starring = Protagonizan...
+MovieStars_Conductor = CONDUCTOR como EL SABIO CONDUCTOR DEL TREN
+MovieStars_DJ = DJ GROOVES como EL MENTOR CON ESTILO
+MovieStars_DetectiveHatKid = UNA CHICA como DETECTIVE INÚTIL
+MovieStars_BombHatKid = UNA CHICA como DETONADORA TEMERARIA
+MovieStars_ParadeHatKid = UNA CHICA como MARISCAL DE DESFILE
+MovieStars_CameraHatKid = UNA CHICA como UNA DIVA MISTERIOSA
+MovieStars_Crows = CUERVOS como AGENTES C.A.W.
+MovieStars_Owls = BÚHOS como BÚHOS
+MovieStars_Penguins = PINGUINOS LUNARES como PÚBLICO HAMBRIENTO
+HighScore = Puntuación Más Alta
+CharacterName_Conductor = CONDUCTOR
+CharacterName_DJGrooves = DJ GROOVES
+
+Mission_Mail = Obligación: ¡Entrega este viejo correo!
+Mission_Manor = Obligación: ¡Revisa la vieja casa del Snatcher!
+Mission_Well = Obligación: ¡Limpia el viejo pozo!
+Mission_Toilet = Obligación: Deshazte de este extraño... ¿Inodoro?
+Mission_Snatcher = Obligación: ¡Obtén lo que mereces!
+Atmosphere_Tense = Atmósfera: Tensa
+Atmosphere_Energetic = Atmósfera: Energética
+Atmosphere_Menacing = Atmósfera: Amenazadora
+Atmosphere_Palpable = Atmósfera: Evidente
+Atmosphere_Unpleasant = Atmósfera: Desagradable
+TOTD_Requiem = Término del día: Réquiem
+TOTD_Choir = Término del Día: Coro
+TOTD_Encore = Término del Día: Bis
+TOTD_DCad = Término del Día: Cadencia engañosa
+TOTD_Rondo = Término del Día: Rondó
+TOTD_Allegro = Término del Día: Allegro
+
+TP_Secured = PIEZA TEMPORAL ASEGURADA
+TP_Detected = PIEZA TEMPORAL DETECTADA
+TimeRift = Aterrizaje de Pieza Temporal ha creado una Ruptura Temporal
+TimeRift_Cave = La Pieza Temporal cayó y golpeó a alguien
+
+[Mountains]
+TowerOfGods = La Torre de Dios
+WillsTower = El Gran Molino de Viento
+Oasis = Oasis
+HUBMountain = Villa Cabra
+TheWindmill = El Molino de Viento    
+Twilight = La Campana del Crepúsculo
+BirdHouse = La Pajarera
+LavaCake = El Pastel de Lava
+Mini1 = Gran Cuerno de Cabra
+Mini2 = Refinería de Cabra 
+OwlBrewMountain = Colinas Banda Amarilla
+SnatcherTeleportMountain = Colinas Místicas del Tiempo
+BirdPathHorn = Cuerno de Pájaro Serpentino
+BirdPath1 = Bifurcación del Paso de Aves
+BellPath1 = El Camino del Crepúsculo
+LavaPath1 = Ruptura de Lava Ardiente
+LavaPath2 = Cumbre de Brasas
+WindmillPath1 = Paso Ventoso
+CatEasy = El Recorrido de la Sombra del Cuerno
+CatHard = La Aldea Saqueada
