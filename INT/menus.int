@@ -735,3 +735,5 @@ RestartToLastCheckpoint = Reiniciar
 [Stickers]
 NewRareSticker = Una pegatina rara ha aparecido en [location] - ¡Ve a encontrarlo!
 NewRareStickerUnknownLocation = Una pegatina rara ha aparecido en alguna parte - ¡Ve a encontrarlo!
+MachineNoRareSticker = La máquina no esta detectando ninguna anomalia en este momento. Tal vez más tarde aparezca alguna señal.
+MachineRareSticker = La máquina esta detectando una señal extraña, La señal dice...[br][stickerloc]
